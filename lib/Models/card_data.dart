@@ -12,29 +12,35 @@ class CardData {
   });
 }
 
+
 List<CardData> contents = [
   CardData(
     dressName: "Pullover",
-    dressColor: "Black",
+    dressColor: "Burgundy",
     dressSize: "L",
-    dressPrice: 51,
+    dressPrice: 45,
     dressImage: "assets/images/pullover.png",
     quantity: 1,
   ),
   CardData(
     dressName: "T-Shirt",
-    dressColor: "Grey",
+    dressColor: "Black",
     dressSize: "L",
-    dressPrice: 30,
+    dressPrice: 23,
     dressImage: "assets/images/tShirt.png",
     quantity: 1,
   ),
   CardData(
     dressName: "Sport Dress",
-    dressColor: "Black",
+    dressColor: "Blue",
     dressSize: "M",
-    dressPrice: 43,
+    dressPrice: 50,
     dressImage: "assets/images/sport.png",
     quantity: 1,
   )
 ];
+
+
+
+
+
